@@ -52,6 +52,7 @@
     ],
     "no-bitwise": "off"
   },
+  "ignorePatterns": ["next.config.js"],
   "overrides": [
     {
       // assuming Next.js application
